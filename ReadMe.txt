@@ -1,0 +1,1 @@
+PyInstaller --noconfirm --clean --onefile --windowed --name VideoApp --icon=app.ico hi.py
